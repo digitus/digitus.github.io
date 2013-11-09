@@ -1,26 +1,26 @@
 ---
 layout: post
 permalink: /sobre/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
-image:
-  feature: soft-trees.jpg
+title: Digitus
+description: "Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome."
+tags: 
+  - about
+  - Jekyll
+  - theme
+  - responsive
+image: 
+  feature: "soft-trees.jpg"
+published: true
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it.
+### Título
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id sapien ultricies, pulvinar est eu, imperdiet mi. Pellentesque id nisl in magna tempus mollis. Nulla at massa facilisis, adipiscing ipsum vel, posuere dolor. Nam suscipit commodo enim quis pulvinar. Nunc non dapibus elit, vel aliquam justo. Sed convallis rutrum ante, ac ornare massa consectetur sit amet. Sed nibh purus, interdum at posuere quis, laoreet quis lorem. Nunc pretium consectetur justo pretium lacinia. Mauris id velit nunc.
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help.
+Nulla in tellus lacus. Ut pretium, erat et malesuada blandit, lacus arcu consequat tellus, hendrerit adipiscing quam metus et ante. Nullam facilisis arcu in massa pellentesque tincidunt. Phasellus in est ligula. Donec at accumsan augue, vitae euismod metus. Suspendisse eleifend, quam non sodales porttitor, arcu nulla facilisis lorem, quis porta enim ante ut neque. Mauris quis vulputate massa, eleifend adipiscing tortor. Sed molestie sagittis placerat. In vehicula pulvinar leo. Nullam et lectus dui. Fusce et urna eleifend, dapibus orci id, convallis dui. Morbi non lacus hendrerit, gravida lorem non, tempus enim. Mauris pharetra felis sed enim rhoncus sollicitudin a vitae risus.
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan justo nulla, quis commodo eros sodales in. Fusce faucibus vestibulum lorem, sagittis dignissim orci rhoncus vel. Aliquam ornare, nibh non rutrum aliquam, diam arcu aliquam dui, ac laoreet velit elit a est. Aenean placerat lacus augue, eget semper nisi rhoncus sit amet. In lacinia sem pharetra tempor tristique. Cras id diam at elit pretium luctus sed vitae nisl.
 
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario.
+Sed congue enim mauris, a ornare nisl faucibus in. Donec quis hendrerit sapien, sed porta dolor. Suspendisse a rutrum dolor. Ut eget pharetra dolor. Proin fringilla vehicula velit, vel elementum ipsum euismod quis. Praesent quis magna enim. Nulla sagittis sit amet purus at scelerisque.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam volutpat dignissim ultrices. Aenean blandit dignissim aliquet. Pellentesque dictum dolor malesuada auctor interdum. Praesent viverra turpis non arcu fringilla, sed placerat est commodo. Suspendisse tincidunt ac tellus et auctor. Proin eu condimentum felis. Maecenas malesuada, ante rhoncus eleifend ultrices, purus enim eleifend tellus, vitae mollis nulla augue ac lectus. Nunc ultrices tincidunt laoreet.
